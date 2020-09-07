@@ -7,6 +7,10 @@ splash: /media/sprite.png
 tags:
   - bananas
 ---
+![me.jpg]({{site.baseurl}}/media/me.jpg)
+no
+
+
 ![sprite.png]({{site.baseurl}}/media/sprite.png)
 ## A New Post
 ![sprite.png]({{site.baseurl}}/media/sprite.png)
