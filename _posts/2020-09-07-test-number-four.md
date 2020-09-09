@@ -5,7 +5,7 @@ published: true
 title: test number four
 splash: /media/sprite.png
 tags:
-  - bananas
+  - apples
 ---
 ![me.jpg]({{site.baseurl}}/media/me.jpg)
 no
